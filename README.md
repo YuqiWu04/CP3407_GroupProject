@@ -4,6 +4,7 @@ How to edit this: test-2025
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated"
 
 # Journey Manager
+This is a journey managing app which allows user to manage their trips. In our base prototype, user can record and manage their budget and summarize their booking details. Moreover, we provide an AI funciton which provides an extra option for users to generates travel plans for themselves.
 
 
 ## How to submit [You may delete this before submitting]
@@ -13,12 +14,10 @@ How to edit this: test-2025
 2. Download your github repository as a zip file and submit via LearnJCU.
 
 ## Team
-
-It is recommended to complete this assignment in a group of 2-4 students.
-1. Yuqi Wu
-2. Yichuan Zhang
-3. Mingsen Hua
-4. Yilin Li
+1. Yuqi Wu--Developer&Product Manager
+2. Yichuan Zhang--Developer&Team Leader
+3. Mingsen Hua--Developer&Progress Supervisor
+4. Yilin Li--Developer&Recoder
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
