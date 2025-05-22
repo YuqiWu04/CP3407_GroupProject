@@ -3,7 +3,8 @@ How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated"
 
-# Journey Manager
+#Project overview & goal
+## Journey Manager
 This is a journey managing app which allows user to manage their trips. In our base prototype, user can record and manage their budget and summarize their booking details. Moreover, we provide an AI funciton which provides an extra option for users to generates travel plans for themselves.
 
 
