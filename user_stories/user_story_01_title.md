@@ -25,6 +25,15 @@ Any notes on priority go here.
 Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
 
+## Latest for iteration-1
+### 1. Priority:9
+### 2. Priority:5
+### 3. Priority:6
+### 4. Priority:8
+### 5. Priority:8
+### 6. Priority:10
+### 7. Priority:7
+
 ## Estimation: e.g. 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Bob: 1 day (e.g. estimated before iteration-1)
