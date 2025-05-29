@@ -40,7 +40,47 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Lisa: 2 days
 * Jack: 3 days
 
+## Estimated before iteration-1
+### 1.Internet Concepts
+* Zhang Yichuan: 5
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
+## 2.Immediate Feedback
+* Zhang Yichuan: 3
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
+## 3.Identify Common Errors
+* Zhang Yichuan: 3
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
+## 4.Interactive Learning Experience
+* Zhang Yichuan: 4
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
+## 5.Visual Protocol Tutorials
+* Zhang Yichuan: 5
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
+## 6.Hands-on Activities
+* Zhang Yichuan: 3
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
+## 7.Practical Guidance
+* Zhang Yichuan: 6
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
 ## Assumptions (if any):
+* Zhang Yichuan: 4
+* Mingsen Hua:
+* Yuqi Wu:
+* Yilin Li:
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
 You need to keep all versions here so that your instructor/marker can see your changes easily. 
