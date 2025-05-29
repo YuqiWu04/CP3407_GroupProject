@@ -5,6 +5,9 @@ as this [user_stories folder](./)
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
+##Internet Concepts
+As a teacher, I want students to understand how the Internet works so students can work effectively in IT and cybersecurity disciplines.
+
 ## Priority: 10 (e.g. latest for iteration-1)
 Any notes on priority go here. 
 Note you may have different priorities at different stages of you project.
