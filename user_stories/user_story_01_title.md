@@ -44,42 +44,42 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ### 1.Internet Concepts
 * Zhang Yichuan: 5
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu:7
 * Yilin Li:
 ## 2.Immediate Feedback
 * Zhang Yichuan: 3
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu:2
 * Yilin Li:
 ## 3.Identify Common Errors
 * Zhang Yichuan: 3
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu: 4
 * Yilin Li:
 ## 4.Interactive Learning Experience
 * Zhang Yichuan: 4
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu: 6
 * Yilin Li:
 ## 5.Visual Protocol Tutorials
 * Zhang Yichuan: 5
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu: 7
 * Yilin Li:
 ## 6.Hands-on Activities
 * Zhang Yichuan: 3
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu: 10
 * Yilin Li:
 ## 7.Practical Guidance
 * Zhang Yichuan: 6
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu: 3
 * Yilin Li:
 ## Assumptions (if any):
 * Zhang Yichuan: 4
 * Mingsen Hua:
-* Yuqi Wu:
+* Yuqi Wu: 5
 * Yilin Li:
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
