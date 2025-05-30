@@ -43,42 +43,42 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Estimated before iteration-1
 ### 1.Internet Concepts
 * Zhang Yichuan: 5
-* Mingsen Hua:
+* Mingsen Hua:7
 * Yuqi Wu:7
 * Yilin Li:
 ## 2.Immediate Feedback
 * Zhang Yichuan: 3
-* Mingsen Hua:
+* Mingsen Hua:3
 * Yuqi Wu:2
 * Yilin Li:
 ## 3.Identify Common Errors
 * Zhang Yichuan: 3
-* Mingsen Hua:
+* Mingsen Hua:4
 * Yuqi Wu: 4
 * Yilin Li:
 ## 4.Interactive Learning Experience
 * Zhang Yichuan: 4
-* Mingsen Hua:
+* Mingsen Hua:6
 * Yuqi Wu: 6
 * Yilin Li:
 ## 5.Visual Protocol Tutorials
 * Zhang Yichuan: 5
-* Mingsen Hua:
+* Mingsen Hua:7
 * Yuqi Wu: 7
 * Yilin Li:
 ## 6.Hands-on Activities
 * Zhang Yichuan: 3
-* Mingsen Hua:
+* Mingsen Hua:10
 * Yuqi Wu: 10
 * Yilin Li:
 ## 7.Practical Guidance
 * Zhang Yichuan: 6
-* Mingsen Hua:
+* Mingsen Hua:6
 * Yuqi Wu: 3
 * Yilin Li:
 ## Assumptions (if any):
 * Zhang Yichuan: 4
-* Mingsen Hua:
+* Mingsen Hua:5
 * Yuqi Wu: 5
 * Yilin Li:
 
