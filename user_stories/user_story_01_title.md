@@ -41,46 +41,44 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Jack: 3 days
 
 ## Estimated before iteration-1
-### 1.Internet Concepts
+### 1.Internet Concepts--6
 * Zhang Yichuan: 5
 * Mingsen Hua:7
 * Yuqi Wu:7
-* Yilin Li:
-## 2.Immediate Feedback
+* Yilin Li:6
+## 2.Immediate Feedback--3
 * Zhang Yichuan: 3
 * Mingsen Hua:3
 * Yuqi Wu:2
-* Yilin Li:
-## 3.Identify Common Errors
+* Yilin Li:4
+## 3.Identify Common Errors--3
 * Zhang Yichuan: 3
 * Mingsen Hua:4
 * Yuqi Wu: 4
-* Yilin Li:
-## 4.Interactive Learning Experience
+* Yilin Li:2
+## 4.Interactive Learning Experience--5
 * Zhang Yichuan: 4
 * Mingsen Hua:6
 * Yuqi Wu: 6
-* Yilin Li:
-## 5.Visual Protocol Tutorials
+* Yilin Li:5
+## 5.Visual Protocol Tutorials--6
 * Zhang Yichuan: 5
 * Mingsen Hua:7
 * Yuqi Wu: 7
-* Yilin Li:
-## 6.Hands-on Activities
-* Zhang Yichuan: 3
+* Yilin Li:5
+## 6.Hands-on Activities--9
+* Zhang Yichuan: 9
 * Mingsen Hua:10
 * Yuqi Wu: 10
-* Yilin Li:
-## 7.Practical Guidance
+* Yilin Li:8
+## 7.Practical Guidance--5
 * Zhang Yichuan: 6
 * Mingsen Hua:6
 * Yuqi Wu: 3
-* Yilin Li:
+* Yilin Li:4
+
 ## Assumptions (if any):
-* Zhang Yichuan: 4
-* Mingsen Hua:5
-* Yuqi Wu: 5
-* Yilin Li:
+Need the image detection model provided by customer.
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
 You need to keep all versions here so that your instructor/marker can see your changes easily. 
