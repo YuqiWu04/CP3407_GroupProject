@@ -4,8 +4,8 @@ How to edit this: test-2025
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated"
 
 #Project overview & goal
-## Journey Manager
-This is a journey managing app which allows user to manage their trips. In our base prototype, user can record and manage their budget and summarize their booking details. Moreover, we provide an AI funciton which provides an extra option for users to generates travel plans for themselves.
+## Internet fundamental learning guide
+This is a learning guidance app which help students quickly understand the concepts of internet fundamentals by some hands-on activities and provide guidance.
 
 
 ## How to submit [You may delete this before submitting]
