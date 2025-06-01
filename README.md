@@ -20,7 +20,7 @@ How to edit this: test-2025
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
-## Project overview & goal
+## Project overview
 （Internet fundamental learning guide）  
   This project is a learning guidance application designed to help students rapidly grasp the foundational concepts of Internet technology through interactive, hands-on activities and targeted instruction. By combining visual simulations, guided network experiments, and real-time feedback, the app demystifies topics such as TCP/IP architecture, DNS resolution, routing principles, and HTTP transactions, transforming abstract theory into tangible learning experiences. As users progress through structured modules—from basic packet tracing exercises to simulated network configuration tasks—the system dynamically adapts to each student’s strengths and weaknesses, offering personalized hints and supplementary resources when challenges arise. Ultimately, this application empowers learners to build confidence in their understanding of core Internet fundamentals, bridging the gap between classroom lectures and practical, real-world networking skills.
 ## Goal
