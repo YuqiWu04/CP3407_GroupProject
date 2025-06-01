@@ -3,9 +3,7 @@ How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated"
 
-#Project overview & goal
-## Internet fundamental learning guide
-This is a learning guidance app which help students quickly understand the concepts of internet fundamentals by some hands-on activities and provide guidance.
+
 
 
 ## How to submit [You may delete this before submitting]
@@ -22,6 +20,11 @@ This is a learning guidance app which help students quickly understand the conce
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
+## Project overview & goal
+（Internet fundamental learning guide）  
+  This project is a learning guidance application designed to help students rapidly grasp the foundational concepts of Internet technology through interactive, hands-on activities and targeted instruction. By combining visual simulations, guided network experiments, and real-time feedback, the app demystifies topics such as TCP/IP architecture, DNS resolution, routing principles, and HTTP transactions, transforming abstract theory into tangible learning experiences. As users progress through structured modules—from basic packet tracing exercises to simulated network configuration tasks—the system dynamically adapts to each student’s strengths and weaknesses, offering personalized hints and supplementary resources when challenges arise. Ultimately, this application empowers learners to build confidence in their understanding of core Internet fundamentals, bridging the gap between classroom lectures and practical, real-world networking skills.
+## Goal
+  Our primary goal is to create an engaging, easy-to-navigate platform that accelerates students’ mastery of Internet fundamentals by seamlessly integrating theoretical concepts with practical, hands-on exercises. Through interactive labs and real-time feedback, we aim to demystify complex protocols, encourage curiosity, and cultivate problem-solving skills that translate directly to real-world networking scenarios. By adapting to each learner’s pace and providing targeted guidance when misunderstandings occur, we strive to ensure that every student achieves a solid, confidence-building comprehension of networking basics, ultimately preparing them for advanced coursework and professional challenges in the digital age.
 Checklist/TODOs: 
 * Update the following during each week prac session
 * github entry timestamp is BEFORE the iteration-1
