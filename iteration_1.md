@@ -22,6 +22,7 @@ Checklist:
 3. Identify Common Errors  3days Priority: Medium  
   3.1 Image recognition to determine right and wrong    
 4. Learning Experience 5 days Priority: High
+  4.1 AR achieves visualization 5 days  
 5. Visual Protocol Tutorials 6 days Priority: Medium  
   5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe.  6days        
 6. Hands-on Activities 9 days Priority: Low
