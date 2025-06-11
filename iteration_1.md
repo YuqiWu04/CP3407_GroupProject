@@ -19,7 +19,7 @@ Checklist:
   2.3 Build a teacher segment database to record the details of each student.  2 days  
   2.4 Completion of the teacher preview page 2 days  
 
-3. Identify Common Errors  3days Priority: Medium
+3. Identify Common Errors  3days Priority: Medium  
   3.1 Image recognition to determine right and wrong    
 4. Learning Experience 5 days Priority: High
 5. Visual Protocol Tutorials 6 days Priority: Medium  
