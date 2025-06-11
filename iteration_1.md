@@ -13,7 +13,7 @@ Checklist:
   1.1 set up the database 2days  
   1.2 sql query. 2days  
   1.3 Cloud-based logical processing 2 days  
-2. Immediate Feedback  3days Priority: Low
+2. Immediate Feedback  3days Priority: Low  
   2.1 Build a student database (including information such as time and accuracy rate) 2 days  
   2.2 Completion of the student preview page. 2 days  
   2.3 Build a teacher segment database to record the details of each student.  2 days  
