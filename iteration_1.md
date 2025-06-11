@@ -23,7 +23,7 @@ Checklist:
   3.1 Image recognition to determine right and wrong    
 4. Learning Experience 5 days Priority: High
 5. Visual Protocol Tutorials 6 days Priority: Medium
-  5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe.  6days      
+  5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe.  6days        
 6. Hands-on Activities 9 days Priority: Low
 7. Practical Guidance 5 days Priority: Medium
 8. Preparing Task: Create a prototype using figma for this web app
