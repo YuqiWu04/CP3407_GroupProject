@@ -33,11 +33,11 @@ Checklist:
 
 ## In progress:
 * Task-2 (developer name or initials), date started
-* Preparing Task:Create a prototype using figma for this web app(Yuqi Wu, Yichuan Zhang) date started: 04-06-2026
+* Preparing Task:Create a prototype using figma for this web app(Yuqi Wu, Yichuan Zhang) date started: 04-06-2025   Update and confirm prorotype v1 date started: 06-15-2025
 
 ## Completed:
 * Task-3 (developer name or initials), date completed
-* ...
+* Preparing Task 06-15-2025
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
