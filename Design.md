@@ -8,4 +8,5 @@
 ![image](https://github.com/user-attachments/assets/7be48b10-fb09-46a1-91ac-5805657ae5fa)
 ![image](https://github.com/user-attachments/assets/28cc4831-f85a-4193-8002-596720b51127)
 ![image](https://github.com/user-attachments/assets/c6aed0cc-52f2-4a56-97cf-48cad2d1452d)
+## UML Design
 <img width="356" alt="UML" src="https://github.com/user-attachments/assets/430ab874-5671-4e53-a91a-f8fd90748b06" />
