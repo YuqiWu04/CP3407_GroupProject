@@ -29,15 +29,19 @@ Checklist:
   6.1 Create the quiz page 9 days      
 7. Practical Guidance 5 days Priority: Medium    
   7.1 Grabbing information from the database 5days    
-8. Preparing Task: Create a prototype using figma for this web app
+8. Preparing Task: Create a prototype using figma for this web app  
 
 ## In progress:
-* Task-2 (developer name or initials), date started
-* Preparing Task:Create a prototype using figma for this web app(Yuqi Wu, Yichuan Zhang) date started: 04-06-2025   Update and confirm prorotype v1 date started: 06-15-2025
+* Task-2 (developer name or initials), date started  
+* Preparing Task:Create a prototype using figma for this web app(Yuqi Wu, Yichuan Zhang) date started: 04-06-2025   Update and confirm prorotype v1 date started: 06-15-2025  
+* Task 3.1 Image recognition to determine right and wrong date started: 21-06-2025  
+* Task 4.1 AR achieves visualization 21-06-2025    
+* Task 5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe. date started: 22-06-2025  
 
 ## Completed:
-* Task-3 (developer name or initials), date completed
-* Preparing Task 06-15-2025
+* Task-3 (developer name or initials), date completed  
+* Preparing Task 06-15-2025  
+* Task 5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe. date started: 24-06-2025  
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
