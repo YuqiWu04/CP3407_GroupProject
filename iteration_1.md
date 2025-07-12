@@ -6,9 +6,9 @@ Checklist:
 
 * Assumed Velocity: 0.7  
 * Number of developers: 4
-* Total estimated amount of work: 55 days
+* Total estimated amount of work: 43 days
 
-## User stories or tasks (see chapter 4)（For interation 1 we select user story 1-6 and preparing task 8):
+## User stories or tasks (see chapter 4)（For interation 1 we select user story 1,2,3,5,6,7 and preparing task 8):
 1. Internet Concepts  6days Priority: High  
   1.1 set up the database 2days  
   1.2 sql query. 2days  
@@ -50,9 +50,10 @@ Checklist:
 * 2.2 Completion of the student preview page.(mingsen hua,Yichuan Zhang,Yuqi Wu)  date started: 06-29-2025  
 * 2.3 Build a teacher segment database to record the details of each student.(mingsen hua,Yichuan Zhang,Yuqi Wu)date started: 06-29-2025  
 * 2.4 Completion of the teacher preview page(mingsen hua,Yichuan Zhang,Yuqi Wu)  date started: 06-29-2025
-* 7.1 Grabbing information from the database(mingsen hua, Yichuan Zhang) date started: 07-01-2025    
+* 7.1 Grabbing information from the database(mingsen hua, Yichuan Zhang) date started: 07-01-2025
+* 2.5 Optimise the overall UI design and content in study record for student and teacher logging.(mingsen hua,Yichuan Zhang,Yuqi Wu) date started: 07-08-2025  
 
-## Completed  Task-3 (developer name or initials), date completed  :
+## Completed  Task-3 (developer name or initials), date completed(completed 1,2,5,6,7)  :
 * Preparing Task date complete: 06-15-2025  
 * Task 5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe (Yichuan Zhang). date completed: 24-06-2025  
 * 1.1 set up the database 2days(Yuqi Wu)  date completed: 24-06-2025  
@@ -67,14 +68,15 @@ Checklist:
 * 2.3 Build a teacher segment database to record the details of each student.(mingsen hua,Yichuan Zhang,Yuqi Wu)date completed: 05-07-2025    
 * 2.4 Completion of the teacher preview page(mingsen hua,Yichuan Zhang,Yuqi Wu)  date completed: 05-07-2025
 * 7.1 Grabbing information from the database(mingsen hua, Yichuan Zhang) date completed: 07-04-2025
+* 2.5 Optimise the overall UI design and content in study record for student and teacher logging.(mingsen hua,Yichuan Zhang,Yuqi Wu) date completed: 07-12-2025  
 
 
-### Burn Down for iteration-1 (see chapter 4, For interation 1 we select user story 1-6 and preparing task 8):
+### Burn Down for iteration-1 (see chapter 4, For interation 1 we select user story 1,2,3,5,6,7 and preparing task 8):
 Update this at least once per week  
-* 4 weeks left, 55 days of estimated amount of work    
-* 2 weeks left, 43 days of estimated amount of work     
-* 1 weeks left, 18 days of estimated amount of work    
-* 0 weeks left, 18 days of estimated amount of work      
-* Actual Velocity: 0.673
+* 4 weeks left, 43 days of estimated amount of work    
+* 2 weeks left, 22 days of estimated amount of work     
+* 1 weeks left, 9 days of estimated amount of work    
+* 0 weeks left, 6 days of estimated amount of work      
+* Actual Velocity: 0.86
 ### Burn Down Chart  
-<img width="1686" height="1101" alt="output" src="https://github.com/user-attachments/assets/1d898f29-8a22-43fe-b15e-bbc2c701d4e6" />
+<img width="1686" height="1101" alt="burn down" src="https://github.com/user-attachments/assets/0f6e3669-e1da-4d3f-b68e-bc8d7149fba4" />
