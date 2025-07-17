@@ -34,3 +34,4 @@ Secondly, we complete our register action, and teacher's side login, to present 
 Finally, we reach to the AR detecting solution with camera implement to show what the progress we reach is.
 Steve helping us to point out what is the critical part and leading us to the specific document for the continuous development. The whole demonstration is well, and our customer did give us a positive evaluation for encouraging. 
 We are satisfied and attempting to bring more design to the practical with the iteration 2 and the rest of the scheduling calendar date (we consider this as an accomplishment).
+We end for iteration 1 completely.
