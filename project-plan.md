@@ -26,3 +26,11 @@ Throughout the beginning, we choose this Internet Fundamental AR program is seek
 However, during the development, we had acquired some emotional satisfying that we firmly believe that every university student supposedly gains all this basement knowledge in a positive motivation, we are persuaded to have
 a high level of the interface's aesthetic, while maintaining the reliable usage when we are developing our internal function that matches and attempting to satisfy customer's requirement. It is a pleasure moment to participate in
 this Programming Project that helps release another university student to decline and discover the interesting side during the Internet Fundamental courses, without getting stuck with all the abstract conception idea.
+
+# Get Feedback from our major customer (Steve Kerrison)
+Overall, when we reach to the Steve's office, we make an introduction on the "side-dishing" (quiz part that utilizes on the Firebase as a cloud solution.).
+We establish the connection, show the logging function with a student account at the AR interface, then participate in the Quiz, showing that we are enabled to do instant update for the student side.
+Secondly, we complete our register action, and teacher's side login, to present the Quiz editor function, with adding, delete, update, etc. Not to mention we reveal the storyboard that is suitable for Student itself and teacher separately.
+Finally, we reach to the AR detecting solution with camera implement to show what the progress we reach is.
+Steve helping us to point out what is the critical part and leading us to the specific document for the continuous development. The whole demonstration is well, and our customer did give us a positive evaluation for encouraging. 
+We are satisfied and attempting to bring more design to the practical with the iteration 2 and the rest of the scheduling calendar date (we consider this as an accomplishment).
