@@ -45,12 +45,12 @@ In progress:
 
 * Task 3.1 Image recognition to determine right and wrong (mingsen hua,Yichuan Zhang,Yuqi Wu) 4 days Priority: Medium
 * Task-3 (developer name or initials), date completed
-* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang)
-* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang)
-* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang)
-* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu)
-* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu)
-* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu)
+* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) 1 day date started
+* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) 1 day
+* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) 1 day
+* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu) 1 day
+* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu) 3 days
+* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) 1 day
 
 Completed:
 * Task-3 (developer name or initials), date completed
