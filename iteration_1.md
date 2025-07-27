@@ -39,9 +39,9 @@ Checklist:
 * Preparing Task:Create a prototype using figma for this web app(Yuqi Wu, Yichuan Zhang) date started: 04-06-2025   Update and confirm prorotype v1 date started: 06-15-2025  
 * Task 3.1 Image recognition to determine right and wrong (Yichuan Zhang), date started : 21-06-2025  
 * Task 5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe.(Yichuan Zhang) date started: 22-06-2025   
-* 1.1 set up the database 2days(Yuqi Wu)  date started: 22-06-2025   
-* 1.2 sql query. 2days(Yuqi Wu) date started: 22-06-2025   
-* 1.3 Cloud-based testing logical processing (Yuqi Wu) date started: 22-06-2025   
+* 1.1 set up the database 2days(Yuqi Wu, Yichuan Zhang)  date started: 22-06-2025   
+* 1.2 sql query. 2days(Yuqi Wu, Yichuan Zhang) date started: 22-06-2025   
+* 1.3 Cloud-based testing logical processing (Yuqi Wu, Yichuan Zhang) date started: 22-06-2025   
 * 1.4 set up cloud service architecture(Yuqi Wu) date started: 22-06-2025   
 * 6.1 Create the quiz page(Yuqi Wu)  date started: 06-25-2025    
 * 6.2 Create the quiz database from cloud service(firebase)(Yuqi Wu) date started: 06-27-2025   
@@ -56,11 +56,11 @@ Checklist:
 ## Completed  Task-3 (developer name or initials), date completed(completed 1,2,5,6,7)  :
 * Preparing Task date complete: 06-15-2025  
 * Task 5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe (Yichuan Zhang). date completed: 24-06-2025  
-* 1.1 set up the database 2days(Yuqi Wu)  date completed: 24-06-2025  
-* 1.2 sql query. 2days(Yuqi Wu) date completed: 24-06-2025  
-* 1.3 Cloud-based testing logical processing 2 days(Yuqi Wu) date completed: 24-06-2025  
+* 1.1 set up the database 2days(Yuqi Wu, Yichuan Zhang)  date completed: 24-06-2025  
+* 1.2 sql query. 2days(Yuqi Wu, Yichuan Zhang) date completed: 24-06-2025  
+* 1.3 Cloud-based testing logical processing 2 days(Yuqi Wu, Yichuan Zhang) date completed: 24-06-2025  
 * 1.4 set up cloud service architecture(Yuqi Wu) date completed: 24-06-2025  
-* 6.1 Create the quiz page  date completed(Yuqi Wu): 06-27-2025   
+* 6.1 Create the quiz page(Yuqi Wu) date completed: 06-27-2025   
 * 6.2 Create the quiz database from cloud service(firebase)(Yuqi Wu)  date completed: 06-28-2025   
 * 6.3 connect the quiz page into the firebase(Yuqi Wu)  date completed: 06-29-2025
 * 2.1 Build a student database (including information such as time and accuracy rate)(mingsen hua,Yichuan Zhang,Yuqi Wu)  date completed: 02-07-2025   
