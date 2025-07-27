@@ -20,10 +20,11 @@ User stories or tasks (see chapter 4, we only have user story 3, 4 which did not
    2.3 Build a teacher segment database to record the details of each student.  2 days  
    2.4 Completion of the teacher preview page 2 days  
    2.5 Optimise the overall UI design and content in study record for student and teacher logging. 3days
-3. Identify Common Errors  4 days Priority: Medium  
-   3.1 Match the colors detected to components of internet concepts
-   3.2 Use cloud or local memory to store the matching rules
-4. Learning Experience 8 days Priority: High  
+3. Identify Common Errors  6 days Priority: Medium  
+   3.1 Match the colors detected to components of internet concepts 2 days
+   3.2 Use cloud or local memory to store the matching rules 2 days
+   3.3 Create user interaction interface of the function 2 days
+5. Learning Experience 8 days Priority: High  
    4.1 Get segmented polygons and fill them onto a blank mask.  1 day
    4.2 Extract the largest contour and approximate it into a quadrilateral.  1 day
    4.3 Perform perspective transformation on the image  1 day
@@ -43,23 +44,24 @@ User stories or tasks (see chapter 4, we only have user story 3, 4 which did not
 In progress:
 * Task-2 (developer name or initials), date started
 
-* Task 3.1 Image recognition to determine right and wrong (mingsen hua,Yichuan Zhang,Yuqi Wu) 4 days Priority: Medium
-* Task-3 (developer name or initials), date completed
-* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) 1 day date started
-* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) 1 day
-* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) 1 day
-* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu) 1 day
-* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu) 3 days
-* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) 1 day
+* Task 3.1 Match the colors detected to components of internet concepts 2 days date started 27-7-2025
+* Task 3.2 Use cloud or local memory to store the matching rules 2 days
+* Task 3.3 Create user interaction interface of the function 2 days
+* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) 1 day date started 18-7-2025
+* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) 1 day date started 19-7-2025
+* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) 1 day date started 20-7-2025
+* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu) 1 day date started 21-7-2025
+* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu) 3 days date started 22-7-2025
+* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) 1 day date started 26-7-2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
-* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang)
-* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang)
-* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang)
-* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu)
-* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu)
-* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu)
+* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) date completed 18-7-2025
+* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) date completed 19-7-2025
+* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) date completed 20-7-2025
+* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu) date completed 21-7-2025
+* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu) date completed 25-7-2025
+* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) date completed 27-7-2025
 
 
 ### Burn Down for iteration-2 (see chapter 4):
