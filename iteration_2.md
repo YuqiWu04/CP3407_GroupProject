@@ -22,8 +22,9 @@ User stories or tasks (see chapter 4, we only have user story 3, 4 which did not
    2.5 Optimise the overall UI design and content in study record for student and teacher logging. 3days
 3. Identify Common Errors  6 days Priority: Medium  
    3.1 Match the colors detected to components of internet concepts 2 days
-   3.2 Use cloud or local memory to store the matching rules 2 days
-   3.3 Create user interaction interface of the function 2 days
+   3.2 Use cloud or local memory to store the matching rules and corresponding concepts 2 days
+   3.3 Create edit function for teacher's end 1 day
+   3.4 Create user interaction interface of the function 1 day
 5. Learning Experience 8 days Priority: High  
    4.1 Get segmented polygons and fill them onto a blank mask.  1 day
    4.2 Extract the largest contour and approximate it into a quadrilateral.  1 day
@@ -45,8 +46,9 @@ In progress:
 * Task-2 (developer name or initials), date started
 
 * Task 3.1 Match the colors detected to components of internet concepts 2 days date started 27-7-2025
-* Task 3.2 Use cloud or local memory to store the matching rules 2 days
-* Task 3.3 Create user interaction interface of the function 2 days
+* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts 2 days
+* Task 3.3 Create edit function for teacher's end 1 day
+* Task 3.4 Create user interaction interface of the function 1 day
 * Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) 1 day date started 18-7-2025
 * Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) 1 day date started 19-7-2025
 * Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) 1 day date started 20-7-2025
