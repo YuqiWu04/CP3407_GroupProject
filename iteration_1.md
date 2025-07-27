@@ -41,7 +41,7 @@ Checklist:
 * Task 5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe.(Yichuan Zhang) date started: 22-06-2025   
 * 1.1 set up the database 2days(Yuqi Wu)  date started: 22-06-2025   
 * 1.2 sql query. 2days(Yuqi Wu) date started: 22-06-2025   
-* 1.3 Cloud-based testing logical processing (Yuqi Wu) date started: 22-06-2025   
+* 1.3 Cloud-based testing logical processing (Yuqi Wu, Yichuan Zhang) date started: 22-06-2025   
 * 1.4 set up cloud service architecture(Yuqi Wu) date started: 22-06-2025   
 * 6.1 Create the quiz page(Yuqi Wu)  date started: 06-25-2025    
 * 6.2 Create the quiz database from cloud service(firebase)(Yuqi Wu) date started: 06-27-2025   
