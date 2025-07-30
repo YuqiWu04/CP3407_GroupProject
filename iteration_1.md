@@ -79,4 +79,5 @@ Update this at least once per week
 * 0 weeks left, 6 days of estimated amount of work      
 * Actual Velocity: 0.86
 ### Burn Down Chart  
-<img width="1686" height="1101" alt="burn down" src="https://github.com/user-attachments/assets/0f6e3669-e1da-4d3f-b68e-bc8d7149fba4" />
+<img width="1979" height="1180" alt="output" src="https://github.com/user-attachments/assets/b5edded3-2b58-4a63-8e34-bcd7b8296bac" />
+
