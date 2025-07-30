@@ -21,17 +21,17 @@ User stories or tasks (see chapter 4, we only have user story 3, 4 which did not
    2.4 Completion of the teacher preview page 2 days  
    2.5 Optimise the overall UI design and content in study record for student and teacher logging. 3days
 3. Identify Common Errors  6 days Priority: Medium  
-   3.1 Match the colors detected to components of internet concepts 2 days  
-   3.2 Use cloud or local memory to store the matching rules and corresponding concepts 2 days  
-   3.3 Create edit function for teacher's end 1 day  
-   3.4 Create user interaction interface of the function 1 day  
+   3.1 Match the colors detected to components of internet concepts 2 days Priority:Medium  
+   3.2 Use cloud or local memory to store the matching rules and corresponding concepts 2 days Priority:Low  
+   3.3 Create edit function for teacher's end 1 day Priority:Low  
+   3.4 Create user interaction interface of the function 1 day Priority:Medium  
 4. Learning Experience 8 days Priority: High  
-   4.1 Get segmented polygons and fill them onto a blank mask.  1 day
-   4.2 Extract the largest contour and approximate it into a quadrilateral.  1 day
-   4.3 Perform perspective transformation on the image  1 day
-   4.4 Split the image into grids and get ROIs  1 day
-   4.5 Detection and matching of colors within the grid  3 days
-   4.6 Draw the results on the original canvas  1 day
+   4.1 Get segmented polygons and fill them onto a blank mask.  1 day Priority:High  
+   4.2 Extract the largest contour and approximate it into a quadrilateral.  1 day Priority:High  
+   4.3 Perform perspective transformation on the image  1 day Priority:High  
+   4.4 Split the image into grids and get ROIs  1 day Priority:Medium  
+   4.5 Detection and matching of colors within the grid  3 days Priority:High  
+   4.6 Draw the results on the original canvas  1 day Priority:Low  
 6. (Completed) Visual Protocol Tutorials 6 days Priority: Medium  
    5.1 Call the segmentation model provided by Mr.Steve Kerrison and detect plate through mediapipe.  6days
 7. (Completed) Hands-on Activities 9 days Priority: Low        
