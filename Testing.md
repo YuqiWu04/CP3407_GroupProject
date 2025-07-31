@@ -19,6 +19,15 @@ Users can click the login button to successfully jump to the registration page, 
 ## Black Box Testing:   
 <img width="1073" height="696" alt="截屏2025-07-31 15 43 20" src="https://github.com/user-attachments/assets/775adfcb-907b-4ad7-87a2-d78550235375" />     
 
+## White Box Testing: 
+shuffleArray method.  
+1. Ensure that the number of elements of the array remains unchanged and the contents are not lost after shuffling.  
+2. Make sure that the original array will not be modified (not in-place).  
+3. can correctly handle empty array input.  
+getWeek method.  
+1. If the URL has a legal week parameter, return the corresponding value.    
+2. If the URL has no week parameter, return 0 (default).   
+3. If the week parameter of the URL is not a number, return 0. 
 ### A. Red Test(Fail)   
 <img width="740" height="328" alt="截屏2025-07-31 14 43 57" src="https://github.com/user-attachments/assets/25dc882a-ae2c-43ac-80b8-bba445ea434f" />   
  
