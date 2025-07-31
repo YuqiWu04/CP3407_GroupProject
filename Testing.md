@@ -1,4 +1,4 @@
-
+# Login page and register page intergration  
 ## Description:   
 Users can click the login button to successfully jump to the registration page, and fill in the empty email will pop up a reminder, the mailbox password error will pop up an error!  
 ## Black Box Testing:  
@@ -83,3 +83,34 @@ Uses fetchStudentByName to check the operation of querying student records by na
 <img width="855" height="375" alt="green" src="https://github.com/user-attachments/assets/7ba9ae2f-ab63-4fb3-985d-f23fd9f6e3f9" />    
 
 
+# Teacher record page testing 
+## Description:  
+As a user on the teacher's end, I'm concerned about automatically loading the corresponding student's data and grades upon login.  
+	1. View students' quiz results by weekly period (including weekly scores, number of answers, accuracy, time spent, etc.).  
+	2. Switch between different weeks through the drop-down menu to filter the data for the time period you want to focus on.  
+	3. charts to visualize performance trends, such as line graphs to show changes in accuracy, bar graphs to show average time spent, etc.  
+	4. View students' weekly activity (number of questions done, etc.) and total number of questions done.  
+	5. view the class leaderboard to know the student's position among his/her classmates (top 5).  
+	6. view the student's basic information (name, class, etc.).  
+	7. Calendar function can display current date or active day, which enhances the information richness and interface beauty.  
+	8. Support one-click logout, login authentication, exception handling and other common operations (e.g. there will be a friendly prompt if the student is not found).  
+ ## Black Box Testing:  
+<img width="851" height="496" alt="截屏2025-07-31 21 01 54" src="https://github.com/user-attachments/assets/cfa9b95c-90fa-4d1f-9f05-d4f98b3be425" />  
+<img width="1255" height="731" alt="截屏2025-07-31 21 02 21" src="https://github.com/user-attachments/assets/3a3d88fb-53d9-4b0b-b408-5c715dbe3fd6" />  
+<img width="371" height="306" alt="截屏2025-07-31 21 02 36" src="https://github.com/user-attachments/assets/d65e5bba-1834-4ace-8342-26a2e6e3aff5" />  
+<img width="1025" height="358" alt="截屏2025-07-31 21 02 49" src="https://github.com/user-attachments/assets/a8640d72-2c8e-4c66-a35a-d8ad18d7567b" />  
+ 
+## White Box Testing:      
+	1. Data pulling and processing: Use Firebase Firestore to pull students' quiz scores, question weeks, user information, all students' quiz data, etc., and locate the current students according to the mailbox parameters, and automatically organize all weekly data.  
+	2. state and data management: page state is maintained by multiple variables (questionWeeks, allAttempts, userMap, studentUid, studentQuizzes, filteredQuizzes, etc.), which supports efficient data filtering and page refreshing.  
+	3. Event-driven Refresh: Automatically refreshes the content of each module by listening to events such as weekly selection, page loading, logout, etc. to ensure that the page is always synchronized with the data.  
+	4. Visual rendering: Based on Chart.js and its plug-ins, it realizes a variety of charts (accuracy line, time-use bar, efficiency mix, activity line), and automatically destroys and rebuilds the charts for each data change, avoiding memory leakage and chart overlapping.  
+	5. Modular page rendering: each functional area (weekly dropdown, calendar, results overview, active table, leaderboard) are independently encapsulated rendering method, high reusability and maintainability.  
+	6. Exception and Boundary Handling: UI pockets are provided for cases such as no data, no student found, no available quiz, etc. to ensure that users will not see errors or dead pages.  
+	7. authentication and security: onAuthStateChanged ensures secure access to the page and supports one-click logout.  
+	8. Performance and Interaction Optimization: Re-render the functional areas only when needed to reduce useless DOM operations.    
+ ### A. Red Test(Fail)    
+<img width="872" height="352" alt="red" src="https://github.com/user-attachments/assets/5898bfba-b02b-4459-a04c-282ceab6623c" />  
+
+ ### B. Green Test(Passing)    
+<img width="813" height="377" alt="green" src="https://github.com/user-attachments/assets/ca9bb5f9-8599-48d6-a91f-e0b6393b20ad" />  
