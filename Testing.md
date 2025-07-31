@@ -59,5 +59,27 @@ Verify that when I delete a topic with the specified document ID, the delete ope
 ### B. Green Test(Passing)    
 <img width="1123" height="306" alt="green" src="https://github.com/user-attachments/assets/a371944d-4db0-4fbe-8fb1-4fa157d58503" />    
 
+# Student record page testing    
+## Description:  
+There is a “Student Information Management” functional module that allows you to retrieve, add, update, delete and search student records by name.  
+## Black Box Testing:  
+<img width="1077" height="492" alt="截屏2025-07-31 20 07 37" src="https://github.com/user-attachments/assets/e03863f6-b257-4624-a0a5-0f9a32ed53fe" />  
+
+## White Box Testing:    
+1. fetchStudentRecords   
+Tests the process of fetching all student information from the database using fetchStudentRecords and ensures that the data structure returned by Firestore is correctly parsed and converted to an array of standard objects.  
+2. Data Addition Functionality   
+Uses addStudentRecord to test the process of adding a new student record to the database and verifies that Firestore's add interface is called correctly and returns the newly generated document ID.   
+3. Data Updating Functionality   
+Uses updateStudentRecord to override and update the logic for a given student record, asserting that the update method calls the Firestore with the correct parameters. The update method calls the underlying interface with the correct parameters.     
+4. data deletion functionality   
+Validates the process of deleting a student record by ID using deleteStudentRecord to ensure that the corresponding Firestore method is triggered correctly. 5. conditional query     functionality fetchStudentRecord is used to retrieve a student record by ID.    
+5. Conditional Query Functionality   
+Uses fetchStudentByName to check the operation of querying student records by name, and mocks the query conditions and results to ensure that the filtering logic is correct.  
+### A. Red Test(Fail)    
+<img width="1145" height="274" alt="red" src="https://github.com/user-attachments/assets/156ff0b7-b2f3-4f2c-99ab-e0ec354d80cf" />  
+
+### B. Green Test(Passing)   
+<img width="855" height="375" alt="green" src="https://github.com/user-attachments/assets/7ba9ae2f-ab63-4fb3-985d-f23fd9f6e3f9" />    
 
 
