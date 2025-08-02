@@ -12,6 +12,9 @@
 * Login page
 ![image](https://github.com/user-attachments/assets/28cc4831-f85a-4193-8002-596720b51127)
 * Quiz edit page
+<img width="774" height="472" alt="截屏2025-08-02 10 10 48" src="https://github.com/user-attachments/assets/55643aae-ada9-450d-bb1a-feb7357ac3a8" />  
+<img width="982" height="600" alt="截屏2025-08-02 10 17 46" src="https://github.com/user-attachments/assets/ed0ea0bc-be5d-4836-a8fa-c39cf676022a" />  
+
 ## UML Design  
 ![Development Layout](https://github.com/user-attachments/assets/a9b1d304-9ae0-4914-a24e-49d073539382)
 
