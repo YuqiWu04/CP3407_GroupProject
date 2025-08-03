@@ -15,4 +15,5 @@ Website Project(Internet Fundamental AR scanner)
 9. Diagram: chart.js
 10. Database: FireStore on Firebase
 11. Dev server: Webpack
-12. Image rectification: perspective-transform
+12. Image rectification: perspective-transform  
+13. Test: Jest unit test
