@@ -114,6 +114,7 @@ As a user on the teacher's end, I'm concerned about automatically loading the co
 
  ### B. Green Test(Passing)    
 <img width="813" height="377" alt="green" src="https://github.com/user-attachments/assets/ca9bb5f9-8599-48d6-a91f-e0b6393b20ad" />  
+
 # Main page testing  
 ## Description:  
 Functions to be tested:
