@@ -46,9 +46,9 @@ In progress:
 * Task-2 (developer name or initials), date started
 
 * Task 3.1 Match the colors detected to components of internet concepts 2 days date started 27-7-2025  
-* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts 2 days  
-* Task 3.3 Create edit function for teacher's end 1 day  
-* Task 3.4 Create user interaction interface of the function 1 day  
+* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts 2 days 29-7-2025  
+* Task 3.3 Create edit function for teacher's end 1 day 1-8-2025  
+* Task 3.4 Create user interaction interface of the function 1 day 2-8-2025  
 * Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) 1 day date started 18-7-2025  
 * Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) 1 day date started 19-7-2025  
 * Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) 1 day date started 20-7-2025  
@@ -57,7 +57,10 @@ In progress:
 * Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) 1 day date started 26-7-2025  
   
 Completed:
-* Task-3 (developer name or initials), date completed   
+* Task 3.1 Match the colors detected to components of internet concepts 2 days 28-7-2025  
+* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts 2 days 31-7-2025  
+* Task 3.3 Create edit function for teacher's end 1 day 2-8-2025  
+* Task 3.4 Create user interaction interface of the function 1 day 3-8-2025  
 * Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) date completed 18-7-2025  
 * Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) date completed 19-7-2025  
 * Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) date completed 20-7-2025  
@@ -71,5 +74,7 @@ Update this at least once per week
 * 4 weeks left, 14 days of estimated amount of work 
 * 2 weeks left, 12 days
 * 1 weeks left, 6 days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+* 0 weeks left, 0 days
+* Actual Velocity: 0.62
+<img width="778" height="519" alt="image" src="https://github.com/user-attachments/assets/1495e49c-4b66-4a26-990d-730e31fe6735" />
+ 
