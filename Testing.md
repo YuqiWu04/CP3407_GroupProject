@@ -114,3 +114,17 @@ As a user on the teacher's end, I'm concerned about automatically loading the co
 
  ### B. Green Test(Passing)    
 <img width="813" height="377" alt="green" src="https://github.com/user-attachments/assets/ca9bb5f9-8599-48d6-a91f-e0b6393b20ad" />  
+# Main page testing  
+## Description:  
+Functions to be tested:
+	1.camera.test.ts:Launch the camera to capture a frame of the picture to segment
+	2.segmentation.test.ts and segmentationService.test.ts:Launch a segmentation request and get the result by segmentationService and segment
+ 	3.legoBoardAnalyzer.test.ts:Utilize the segmentation result to analyze color, position and corresponding component of internet concepts of the lego blocks and return an array conclude all the information
+  	4.legoColors.test.ts and colorMap.test.ts:These two modules are used by the analyzer to match the corresponding lego color and internet concepts componets
+   	5.ui.test.ts:Test the ui modules
+    	6.vision.test.ts:Test the visualization workflow
+## Black Box Testing:
+<img width="1512" height="982" alt="cb378ab9c6a8226413b1e5c1ab44565" src="https://github.com/user-attachments/assets/bb386f10-b52f-4633-9a7d-bcc48c889bec" />
+## White Box Testing:
+### Red Test(Fail):
+### Green Test(Passed):
