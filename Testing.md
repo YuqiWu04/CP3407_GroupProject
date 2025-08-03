@@ -29,6 +29,7 @@ getWeek method.
 2. If the URL has no week parameter, return 0 (default).   
 3. If the week parameter of the URL is not a number, return 0.  
 ### A. Red Test(Fail)   
+
 <img width="740" height="328" alt="截屏2025-07-31 14 43 57" src="https://github.com/user-attachments/assets/25dc882a-ae2c-43ac-80b8-bba445ea434f" />   
  
 ### B. Green Test(Passing)    
@@ -124,10 +125,10 @@ Functions to be tested:
   	4.legoColors.test.ts and colorMap.test.ts:These two modules are used by the analyzer to match the corresponding lego color and internet concepts componets  
    	5.ui.test.ts:Test the ui modules  
     	6.vision.test.ts:Test the visualization workflow  
-## Black Box Testing:
+## Black Box Testing:  
 <img width="1512" height="982" alt="cb378ab9c6a8226413b1e5c1ab44565" src="https://github.com/user-attachments/assets/bb386f10-b52f-4633-9a7d-bcc48c889bec" />
-## White Box Testing:
-### Red Test(Fail):
+## White Box Testing:  
+### Red Test(Fail):  
 <img width="1294" height="2618" alt="image" src="https://github.com/user-attachments/assets/a1fb6598-af30-4d35-9e7e-72431c3fa27b" />
-### Green Test(Passed):
+### Green Test(Passed):  
 <img width="513" height="670" alt="image" src="https://github.com/user-attachments/assets/036cd966-1399-4953-b344-b7557bb7be10" />
