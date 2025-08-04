@@ -1,6 +1,6 @@
-Iteration 2 Retrospective
-1. Finished and Incomplete User Stories
-In Iteration 2, our team successfully completed all user stories and associated tasks set out for this cycle. The primary focus was on user stories 3 (“Identify Common Errors”) and 4 (“Learning Experience”), both of which were not completed in the previous iteration. For this iteration, we set out to finish tasks that were directly tied to these stories, breaking them down into smaller, actionable components.
+# Iteration 2 Retrospective  
+## 1. Finished and Incomplete User Stories  
+In Iteration 2, our team successfully completed all user stories and associated tasks set out for this cycle. The primary focus was on user stories 3 (“Identify Common Errors”) and 4 (“Learning Experience”), both of which were not completed in the previous iteration. For this iteration, we set out to finish tasks that were directly tied to these stories, breaking them down into smaller, actionable components.  
 
 All of the following user stories and tasks were fully completed by the end of the iteration:
 
@@ -30,7 +30,7 @@ Learning Experience (User Story 4)
 
 All items listed above were both started and completed within the defined iteration window, and the outcomes have been validated against the acceptance criteria for each story. There are no outstanding or incomplete user stories/tasks from this sprint, reflecting excellent team commitment and focus.
 
-2. Completion Relative to Estimated Duration
+## 2. Completion Relative to Estimated Duration
 Our total estimated workload for Iteration 2 was 14 days of effort, distributed across four developers. The actual burn down closely tracked our estimates:
 
 4 weeks left: 14 days of estimated work
@@ -43,7 +43,7 @@ Our total estimated workload for Iteration 2 was 14 days of effort, distributed 
 
 All planned tasks were completed on schedule, with an actual velocity of 0.62 (slightly below the assumed 0.7 from Iteration 1). The minor deviation in velocity is explainable primarily by technical challenges encountered (see below), but importantly, all work was finished before the deadline. This reflects solid estimation practice, especially as the iteration included technically demanding integration of computer vision and frontend visualization components.
 
-3. Obstacles Encountered by the Team
+## 3. Obstacles Encountered by the Team
 Despite the successful delivery, our team encountered several notable obstacles:
 
 Model Segmentation Output Issues
@@ -55,7 +55,7 @@ Once segmentation output was obtained, there were difficulties in reliably extra
 Visualization of Analyzed Results
 Even when analysis succeeded, it proved difficult to accurately visualize the results on the original camera frame. Mapping between the rectified (warped) grid and the original camera coordinates required precise handling of perspective matrices and correct overlay logic. In some cases, the color annotations were misplaced or overlapped incorrectly, reducing the interpretability of the results.
 
-4. How These Obstacles Were Cleared
+## 4. How we Deal with These Obstacles
 The solutions to these obstacles are now well-documented and reflected in the current project source code:
 
 Reliable Segmentation and Robust Error Handling
@@ -76,7 +76,7 @@ The visualization module (VisionApp) was updated to map detected cell quadrilate
 Comprehensive Debug Logging
 Throughout the codebase, debug statements and error logs were inserted at each critical processing stage, significantly reducing debugging time and improving maintainability.
 
-5. Potential Process Improvements for Future Iterations
+## 5. Potential Improvements for Future Iterations
 Based on our experiences this iteration, the following process improvements are suggested for future cycles:
 
 Earlier and Automated Integration Testing
