@@ -94,5 +94,5 @@ Introducing short user testing sessions mid-iteration would provide earlier feed
 Enhanced Documentation
 Clearer internal documentation, especially around the structure and contract of API responses, would help new contributors ramp up faster and reduce the risk of misunderstandings.
 
-Conclusion:
+## Conclusion:
 Despite challenging technical obstacles, Iteration 2 was a full success: all user stories and tasks were completed within the planned duration, and the core pipeline—from camera capture through segmentation, board analysis, and visualization—has matured substantially. Lessons learned from this iteration will be leveraged to streamline future work and further improve both the team’s workflow and the final product’s quality.
