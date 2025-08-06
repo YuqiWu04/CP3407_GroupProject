@@ -12,11 +12,11 @@ How to edit this: test-2025
 1. Submit link to your repository
 2. Download your github repository as a zip file and submit via LearnJCU.
 
-## Team Group-5
+## Team: Group-5 CLass: Group A
 1. Yuqi Wu--Developer&Product Manager 14564750
 2. Yichuan Zhang--Developer&Team Leader 14678192
 3. Mingsen Hua--Developer&Progress Supervisor 14648355
-4. Yilin Li--Developer&Recoder
+4. Yilin Li--Developer&Recoder 14638410
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
