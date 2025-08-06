@@ -8,10 +8,14 @@ How to edit this: test-2025
 
 
 ## Team: Group-5 CLass: Group A
-1. Yuqi Wu--Developer&Product Manager 14564750
-2. Yichuan Zhang--Developer&Team Leader 14678192
-3. Mingsen Hua--Developer&Progress Supervisor 14648355
-4. Yilin Li--Developer&Recoder 14638410
+1. Yuqi Wu--Developer&Product Manager  14564750  
+(Responsible for managing the overall project schedule and participating in code development and testing. Responsible for debugging AR functions and developing and testing code for other functions such as quizzes and record pages.)   
+2. Yichuan Zhang--Developer&Team Leader 14678192  
+（Mainly responsible for AR feature development and project progress supervision.） 
+3. Mingsen Hua--Developer&Progress Supervisor 14648355  
+(Mainly responsible for optimizing and designing project UI pages, as well as writing text.)  
+4. Yilin Li--Developer&Recoder 14638410  
+(Mainly responsible for testing code   (testing from a user perspective and writing text content))
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
