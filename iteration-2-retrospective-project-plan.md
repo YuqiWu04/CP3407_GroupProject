@@ -1,34 +1,34 @@
 # Iteration 2 Retrospective  
-## 1. Finished and Incomplete User Stories  
+## 1. Completed User Stories  
 In Iteration 2, our team successfully completed all user stories and associated tasks set out for this cycle. The primary focus was on user stories 3 (“Identify Common Errors”) and 4 (“Learning Experience”), both of which were not completed in the previous iteration. For this iteration, we set out to finish tasks that were directly tied to these stories, breaking them down into smaller, actionable components.  
 
 All of the following user stories and tasks were fully completed by the end of the iteration:
 
 Identify Common Errors (User Story 3)
 
-3.1: Match the colors detected to components of internet concepts
+3.1: Match the colors detected to components of internet concepts date completed 28-7-2025
 
-3.2: Use cloud or local memory to store the matching rules and corresponding concepts
+3.2: Use cloud or local memory to store the matching rules and corresponding concepts date completed 29-7-2025
 
-3.3: Create edit function for teacher's end
+3.3: Create edit function for teacher's end date completed 31-7-2025
 
-3.4: Create user interaction interface for the function
+3.4: Create user interaction interface for the function date completed 3-8-2025
 
 Learning Experience (User Story 4)
 
-4.1: Get segmented polygons and fill them onto a blank mask
+4.1: Get segmented polygons and fill them onto a blank mask date completed 18-7-2025
 
-4.2: Extract the largest contour and approximate it into a quadrilateral
+4.2: Extract the largest contour and approximate it into a quadrilateral date completed 19-7-2025
 
-4.3: Perform perspective transformation on the image
+4.3: Perform perspective transformation on the image date completed 20-7-2025
 
-4.4: Split the image into grids and get ROIs
+4.4: Split the image into grids and get ROIs date completed 21-7-2025
 
-4.5: Detection and matching of colors within the grid
+4.5: Detection and matching of colors within the grid date completed 25-7-2025
 
-4.6: Draw the results on the original canvas
+4.6: Draw the results on the original canvas 27-7-2025
 
-All items listed above were both started and completed within the defined iteration window, and the outcomes have been validated against the acceptance criteria for each story. There are no outstanding or incomplete user stories/tasks from this sprint, reflecting excellent team commitment and focus.
+All items listed above were both started and completed within the defined iteration planning, and the outcomes have been validated against the acceptance criteria for each story. There are no outstanding or incomplete user stories/tasks from this sprint, reflecting excellent team commitment and focus.
 
 ## 2. Completion Relative to Estimated Duration
 Our total estimated workload for Iteration 2 was 14 days of effort, distributed across four developers. The actual burn down closely tracked our estimates:
@@ -94,5 +94,14 @@ Introducing short user testing sessions mid-iteration would provide earlier feed
 Enhanced Documentation
 Clearer internal documentation, especially around the structure and contract of API responses, would help new contributors ramp up faster and reduce the risk of misunderstandings.
 
-## Conclusion:
+## Conclusion
 Despite challenging technical obstacles, Iteration 2 was a full success: all user stories and tasks were completed within the planned duration, and the core pipeline—from camera capture through segmentation, board analysis, and visualization—has matured substantially. Lessons learned from this iteration will be leveraged to streamline future work and further improve both the team’s workflow and the final product’s quality.
+
+## Feedbacks from our customer(Mr.Steve Kerrison)
+After testing the latest deployment, he found that the system is now able to successfully capture board images from the camera, segment the relevant area, and provide an accurate breakdown of detected LEGO colors. The mapping of colors to internet protocol components is both logical and visually clear, and the overlay on the original camera feed is very helpful for teaching purposes.
+
+He also appreciate about the edit functionality for teachers, which gives us flexibility in adapting the mapping as the curriculum evolves. The ability to store and retrieve these mappings from the cloud is a significant advantage for long-term use in the classroom.
+
+The improvements to error handling and robustness in the segmentation and visualization pipelines are evident. Previously, there were cases where no results or incorrect overlays were produced, but in the current build, these issues appear resolved.
+
+In summary, he is pretty satisfied with the results of Iteration 2. The delivered features align well with his original vision and requirements. And he is confident that, with continued effort and iterations, this platform will become a highly valuable teaching tool for our curriculum.
