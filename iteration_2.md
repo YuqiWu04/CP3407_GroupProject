@@ -83,5 +83,5 @@ Update this at least once per week
 * 1 weeks left, 6 days
 * 0 weeks left, 0 days
 * Actual Velocity: 0.62
-<img width="778" height="519" alt="image" src="https://github.com/user-attachments/assets/1495e49c-4b66-4a26-990d-730e31fe6735" />
- 
+<img width="1580" height="980" alt="output" src="https://github.com/user-attachments/assets/f29de994-818b-4b74-994a-9be3338edd94" />
+
