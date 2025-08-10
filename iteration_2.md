@@ -1,8 +1,9 @@
 # Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
 
 Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+1. Start date: 22-7-2025
+2. End date: 7-8-2025
+3. User stories are correct: see p39
 
 * Assumed Velocity FROM iteration-1: 0.7 
 * Number of developers: 4
@@ -49,13 +50,12 @@ Checklist:
     
 (Completed by iteration1 )*** 8. Preparing Task: Create a prototype using figma for this web app  
 
-In progress:
-* Task-2 (developer name or initials), date started
+In progress:   
 
 * Task 3.1 Match the colors detected to components of internet concepts.(Yichuan Zhang) 2 days date started 27-7-2025  
-* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts.(Yichuan Zhang, Yuqi Wu) 1 days 28-7-2025  
-* Task 3.3 Create edit function for teacher's end.(Yichuan Zhang, Yuqi Wu) 1 day 30-7-2025  
-* Task 3.4 Create user interaction interface of the function.(Yichuan Zhang) 2 day 1-8-2025  
+* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts.(Yichuan Zhang, Yuqi Wu) 1 days date started 28-7-2025  
+* Task 3.3 Create edit function for teacher's end.(Yichuan Zhang, Yuqi Wu) 1 day date started 30-7-2025  
+* Task 3.4 Create user interaction interface of the function.(Yichuan Zhang) 2 day date started 1-8-2025  
 * Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) 1 day date started 18-7-2025  
 * Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) 1 day date started 19-7-2025  
 * Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) 1 day date started 20-7-2025  
@@ -64,16 +64,16 @@ In progress:
 * Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) 1 day date started 26-7-2025  
   
 Completed:
-* Task 3.1 Match the colors detected to components of internet concepts.(Yichuan Zhang) 2 days 28-7-2025  
-* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts.(Yichuan Zhang, Yuqi Wu) 2 days 29-7-2025  
-* Task 3.3 Create edit function for teacher's end.(Yichuan Zhang, Yuqi Wu) 1 day 31-8-2025  
-* Task 3.4 Create user interaction interface of the function.(Yichuan Zhang) 1 day 3-8-2025  
-* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) date completed 18-7-2025  
-* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) date completed 19-7-2025  
-* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) date completed 20-7-2025  
-* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu) date completed 21-7-2025  
-* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu) date completed 25-7-2025  
-* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) date completed 27-7-2025  
+* Task 3.1 Match the colors detected to components of internet concepts.(Yichuan Zhang) 2 days date completed: 28-7-2025  
+* Task 3.2 Use cloud or local memory to store the matching rules and corresponding concepts.(Yichuan Zhang, Yuqi Wu) 2 days days date completed: 29-7-2025  
+* Task 3.3 Create edit function for teacher's end.(Yichuan Zhang, Yuqi Wu) 1 day days date completed: 31-7-2025  
+* Task 3.4 Create user interaction interface of the function.(Yichuan Zhang) 1 day days date completed: 3-8-2025  
+* Task 4.1 Get segmented polygons and fill them onto a blank mask.(Yichuan Zhang) date completed: 18-7-2025  
+* Task 4.2 Extract the largest contour and approximate it into a quadrilateral.(Yichuan Zhang) date completed: 19-7-2025  
+* Task 4.3 Perform perspective transformation on the image.(Yichuan Zhang) date completed: 20-7-2025  
+* Task 4.4 Split the image into grids and get ROIs.(Yichuan Zhang, Yuqi Wu) date completed: 21-7-2025  
+* Task 4.5 Detection and matching of colors within the grid.(Yichuan Zhang, Yuqi Wu) date completed: 25-7-2025  
+* Task 4.6 Draw the results on the original canvas.(Yichuan Zhang, Yuqi Wu) date completed: 27-7-2025  
 
 
 ### Burn Down for iteration-2 (see chapter 4):
