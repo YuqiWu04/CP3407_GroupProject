@@ -8,7 +8,7 @@ Checklist:
 * Number of developers: 4
 * Total estimated amount of work: 14 days
 
-User stories or tasks (see chapter 4, we only have user story 3, 4 which did not complete):
+User stories or tasks (see chapter 4, we only have user story 3, 4 which did not complete for iteration2):
 1. Internet Concepts  6days Priority: High  
   1.1 set up the database 2days Priority:Low   
   1.2 sql query. 2days Priority:Low  
