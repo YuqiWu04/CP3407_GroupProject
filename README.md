@@ -11,7 +11,7 @@ How to edit this: test-2025
 1. Yuqi Wu--Developer&Product Manager  14564750  
 (Responsible for managing the overall project schedule and participating in code development and testing. Responsible for debugging AR functions and developing and testing code for other functions such as quizzes and record pages.)   
 2. Yichuan Zhang--Developer&Team Leader 14678192  
-（Mainly responsible for AR feature development and project progress supervision.） 
+（Mainly responsible for AR feature development and project planning, breaking user story into tasks and progress supervision and evaluation. Responsible for modules and functions jest unit test.） 
 3. Mingsen Hua--Developer&Progress Supervisor 14648355  
 (Mainly responsible for optimizing and designing project UI pages, as well as writing text.)  
 4. Yilin Li--Developer&Recoder 14638410  
